@@ -68,7 +68,7 @@ PiHunter/
 2. Développer le script Python principal (scan avec nmap)
 3. Tester localement avec un fichier de log généré
 4. Dockeriser le projet
-5. Automatiser le lancement (crontab ou systemd)
+5. Automatiser le lancement (crontab)
 6. Ajouter interface web ou CLI si besoin
 7. Ajouter logs horodatés, export CSV, alertes mail
 8. Documenter proprement tout dans ce README
